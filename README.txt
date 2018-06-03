@@ -1,0 +1,1 @@
+Conversor de models (.ts) para DTO's (.cs) e vice-versa.
